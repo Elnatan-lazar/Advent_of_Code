@@ -6,16 +6,12 @@ Welcome to the repository for my solutions to the [Advent of Code 2024](https://
 [Advent of Code](https://adventofcode.com/) is an annual coding competition that runs every December. Each day, a new problem is released, challenging participants to solve puzzles using programming. It’s a fantastic way to improve problem-solving skills, learn new algorithms, and have fun during the holiday season.
 
 ## Structure of the Repository
-This repository contains solutions for each day's puzzles. Each problem is typically divided into two parts, and solutions may be written in various programming languages. The structure of the repository is as follows:
+This repository contains solutions for each day's puzzles. Each problem is typically divided into two parts ' both of the in the python file that match the day of the qustion, and solutions may be written in various programming languages. The structure of the repository is as follows:
 
 ```
-|-- Day01/
-|   |-- part1.py
-|   |-- part2.py
-|
-|-- Day02/
-|   |-- part1.py
-|   |-- part2.py
+|-- repo/
+|   |-- q1.py
+|   |-- q2.py
 |
 ...
 ```
@@ -25,13 +21,9 @@ This repository contains solutions for each day's puzzles. Each problem is typic
    ```bash
    git clone https://github.com/Elnatan-lazar/Advent_of_Code.git
    ```
-2. Navigate to the directory for the day you want to run:
+2. Run the solution:
    ```bash
-   cd Day01
-   ```
-3. Run the solution:
-   ```bash
-   python part1.py
+   python q1.py
    ```
 
 ## Contributing
