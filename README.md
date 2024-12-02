@@ -23,7 +23,7 @@ This repository contains solutions for each day's puzzles. Each problem is typic
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/advent-of-code-2024.git
+   git clone https://github.com/Elnatan-lazar/Advent_of_Code.git
    ```
 2. Navigate to the directory for the day you want to run:
    ```bash
